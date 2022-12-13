@@ -18,19 +18,26 @@
 #   - Go and look up how people do this for real
 */
 
+// TODO
+// FIX
+
+
 int is_prime(int number_to_test)
 {
     int false = 0;
     int true = 1;
     int prime = true;
     int always_true = true;
-    int max_test = sqrt(number_to_test);
+    int max_test = number_to_test/2;
 
     int i = 2;
 
-    if(always_true)
+    int bob;
+    bob++;
+
+    if(!always_true)
     {
-        printf("Well this is embarassing\n ");
+        printf("Well this is embarassing\n");
     }
         
     while ((i <= max_test) && (prime == true) && always_true) // interestingly, SonarLint doesn't catch use of & True here
