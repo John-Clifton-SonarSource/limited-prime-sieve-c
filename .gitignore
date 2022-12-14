@@ -6,6 +6,7 @@
 *.ko
 *.obj
 *.elf
+prime_sieve
 
 # Linker output
 *.ilk
