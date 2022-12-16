@@ -51,7 +51,7 @@ int is_prime(int number_to_test)
         i++;
     }
     
-    return(prime);
+    return prime;
 
 }
 
