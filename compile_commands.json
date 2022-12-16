@@ -1,5 +1,5 @@
 [
     {"directory": "/Users/john.clifton/Documents/GitHub/limited-prime-sieve-c",
-    "arguments": ["/usr/bin/gcc", "-fdiagnostics-color=always","-g","prime_sieve.c","-o","prime_sieve.o","prime_sieve.c"],
+    "arguments": ["/usr/bin/gcc","-o","prime_sieve.o","prime_sieve.c"],
     "file": "prime_sieve.c"}
 ]
