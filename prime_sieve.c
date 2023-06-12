@@ -5,7 +5,7 @@
 # I'm not going to try and make this clever initially
 #
 # Future additions:
-#
+# 
 #   To test N:
 #   - Only test whether the prime numbers up to sqrt(N) divide into N without remainder
 #   - Use previously saved results to short circuit the test (for now I'll just test as if we have no known data)
